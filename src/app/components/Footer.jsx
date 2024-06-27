@@ -27,15 +27,6 @@ const Footer = () => {
           </ul>
           </h1>
         <h1>
-          Explore
-          <ul className='text-[#B4BCC7]'>
-            <li>Documentation</li>
-            <li>Store</li>
-            <li>Blog</li>
-            <li>Roadmap</li>
-          </ul>
-        </h1>
-        <h1>
           Resources
           <ul className='text-[#B4BCC7]'>
             <li>Icons</li>

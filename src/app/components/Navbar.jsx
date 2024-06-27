@@ -18,7 +18,7 @@ const Navbar = () => {
             </div>
         <ul className='flex justify-between items-center gap-8 text-[#BDC6CE] font-semibold mr-4 max-md:hidden'>
           <Link href='/' className=' hover:text-[#ffff] active:text-[#9370DB]'><li>Docs</li></Link>
-          <Link href='/' className=' hover:text-[#ffff] active:text-[#9370DB]'><li>Components</li></Link>
+          <Link href='/Component' className=' hover:text-[#ffff] active:text-[#9370DB]'><li>Components</li></Link>
           <Link href='/' className=' hover:text-[#ffff] active:text-[#9370DB]'><li>Templates</li></Link>
           <Link href='/' className=' hover:text-[#ffff] active:text-[#9370DB]'><li>CUI</li></Link>
             </ul>

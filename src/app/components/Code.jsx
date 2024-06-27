@@ -9,7 +9,7 @@ const Code = ({code}) => {
         border: '2px solid #3d4650',
         backgroundColor: '#080b0e',
         padding: '25px 15px 15px 7px',
-        width: '35rem',
+        width: '32rem',
     };
 
     
